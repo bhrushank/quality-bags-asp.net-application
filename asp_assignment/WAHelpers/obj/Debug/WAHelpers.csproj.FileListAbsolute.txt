@@ -1,0 +1,4 @@
+W:\asp_assignment\WAHelpers\bin\Debug\WAHelpers.dll
+W:\asp_assignment\WAHelpers\bin\Debug\WAHelpers.pdb
+W:\asp_assignment\WAHelpers\obj\Debug\WAHelpers.dll
+W:\asp_assignment\WAHelpers\obj\Debug\WAHelpers.pdb

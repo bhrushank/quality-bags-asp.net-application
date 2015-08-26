@@ -1,0 +1,107 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AdminMaster.master.cs"
+    Inherits="Admin_AdminMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <!-- Generate Page Title here -->
+    <title>
+        <asp:ContentPlaceHolder ID="TitlePlaceholder" runat="server">
+            Quality Bags
+        </asp:ContentPlaceHolder>
+    </title>
+    <script type="text/javascript">
+        function current_time() {
+            var currentTime = new Date();
+            var month = currentTime.getMonth() + 1;
+            var day = currentTime.getDate();
+            var year = currentTime.getFullYear();
+            document.write(day + "/" + month + "/" + year);
+        }
+    </script>
+    <!-- <link rel="stylesheet" href="WAStyleSheet/StyleSheet.css" type="text/css" /> -->
+   <link href="../css/style.css" rel="stylesheet" type="text/css" media="all" /> 
+    
+  
+</head>
+<body>
+    
+    <div class="header_bg">
+        <div class="wrap">
+            <div class="header">
+                <div id="logo" onclick="location.href='<%=Page.ResolveUrl("~/Introduction.aspx")%>'">
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+    </div>
+    <form id="frmReg" name="frmReg" runat="server" method="post">
+    <!-- The navigation area -->
+    <div class="header_btm">
+        <div class="wrap">
+            <div class="header_sub">
+                <div class="h_menu">
+                    <ul>
+                        <li class="active">
+                            <asp:HyperLink ID="HyperLink6" NavigateUrl="Introduction.aspx" Text="Home" runat="server"></asp:HyperLink>
+                         </li>
+                            
+                         <li>
+                            <asp:HyperLink ID="HyperLink5" NavigateUrl="AddBags.aspx" Text="Add Bags" runat="server"></asp:HyperLink>
+                         </li>
+
+                        <li>
+                            <asp:HyperLink ID="HyperLink4" NavigateUrl="ManageBags.aspx" Text="Manage Bags" runat="server"></asp:HyperLink>
+                        </li>
+                        
+                        <li>
+                            <asp:HyperLink ID="HyperLink1" NavigateUrl="Orders.aspx" Text="Edit Orders" runat="server"></asp:HyperLink>
+                        </li>
+
+                        <li>
+                            <asp:HyperLink ID="HyperLink7" NavigateUrl="Customers.aspx" Text="Edit Customer" runat="server"></asp:HyperLink>
+                        </li>
+
+                        <li>
+                            <asp:HyperLink ID="HyperLink3" NavigateUrl="AdminRegistration.aspx" Text="Register" runat="server"></asp:HyperLink>
+                         </li>
+                        <li>
+                            <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Admin/Adminlogin.aspx" Text="Administrator" runat="server"></asp:HyperLink>
+                        </li>
+                        <li>
+                            <asp:Button ID="btnLogOut" runat="server" OnClick="btnLogOut_Click" Text="Log Out" />
+                        </li>
+                    </ul>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+    </div>
+  
+    <div id="right">
+        <asp:ContentPlaceHolder ID="PageContent" runat="server">
+            <h1 style="text-align: center;">
+                Quality Bags Sales</h1>
+            <h2 style="text-align: center;">
+                Welcome</h2>
+            <h3 style="text-align: center;">
+                New Zealand, Auckland</h3>
+            <h5 style="text-align: center;">
+                In here, you can find all the styles of bags you like and please enjoy the happiness
+                of shopping. Let's Start!</h5>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <!-- Footer -->
+    <div style="position: fixed; bottom: 10px; left: 10px;">
+        &copy;Developed by Bhrushank Ved</div>
+    <div style="position: fixed; bottom: 10px; right: 10px;">
+        <!-- Call javascript function -->
+        <script type="text/javascript">
+            document.write("Current time is" + current_time());
+        </script>
+    </div>
+</body>
+</html>

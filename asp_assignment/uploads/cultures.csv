@@ -1,0 +1,353 @@
+Name,Native Name,English Name,Currency Format
+ar,العربية,Arabic,ر.س.‏ 123,456.00
+bg,български,Bulgarian,123 456,00 лв.
+ca,català,Catalan,123.456,00 €
+zh-Hans,中文(简体),Chinese (Simplified),¥123,456.00
+cs,čeština,Czech,123 456,00 Kč
+da,dansk,Danish,kr. 123.456,00
+de,Deutsch,German,123.456,00 €
+el,Ελληνικά,Greek,123.456,00 €
+en,English,English,$123,456.00
+es,español,Spanish,123.456,00 €
+fi,suomi,Finnish,123 456,00 €
+fr,français,French,123 456,00 €
+he,עברית,Hebrew,₪ 123,456.00
+hu,magyar,Hungarian,123 456,00 Ft
+is,íslenska,Icelandic,123.456 kr.
+it,italiano,Italian,€ 123.456,00
+ja,日本語,Japanese,¥123,456
+ko,한국어,Korean,₩123,456
+nl,Nederlands,Dutch,€ 123.456,00
+no,norsk,Norwegian,kr 123 456,00
+pl,polski,Polish,123 456,00 zł
+pt,Português,Portuguese,R$ 123.456,00
+rm,Rumantsch,Romansh,fr. 123'456.00
+ro,română,Romanian,123.456,00 lei
+ru,русский,Russian,123 456,00 ₽
+hr,hrvatski,Croatian,123.456,00 kn
+sk,slovenčina,Slovak,123 456,00 €
+sq,shqipe,Albanian,123.456,00Lek
+sv,svenska,Swedish,123.456,00 kr
+th,ไทย,Thai,฿123,456.00
+tr,Türkçe,Turkish,123.456,00 ₺
+ur,اُردو,Urdu,Rs123,456.00
+id,Bahasa Indonesia,Indonesian,Rp123.456
+uk,українська,Ukrainian,123 456,00₴
+be,Беларускі,Belarusian,123 456,00 р.
+sl,slovenski,Slovenian,123.456,00 €
+et,eesti,Estonian,123 456.00 €
+lv,latviešu,Latvian,€ 123 456,00
+lt,lietuvių,Lithuanian,123.456,00 Lt
+tg,Тоҷикӣ,Tajik,123 456;00 т.р.
+fa,فارسى,Persian,ريال 123,456/00
+vi,Tiếng Việt,Vietnamese,123.456,00 ₫
+hy,Հայերեն,Armenian,123,456.00 դր.
+az,Azərbaycan­ılı,Azeri,123 456,00 man.
+eu,euskara,Basque,123.456,00 €
+hsb,hornjoserbšćina,Upper Sorbian,123.456,00 €
+mk,македонски јазик,Macedonian (FYROM),123.456,00 ден.
+tn,Setswana,Setswana,R 123,456.00
+xh,isiXhosa,isiXhosa,R 123,456.00
+zu,isiZulu,isiZulu,R 123,456.00
+af,Afrikaans,Afrikaans,R 123,456.00
+ka,ქართული,Georgian,123 456,00 Lari
+fo,føroyskt,Faroese,kr. 123.456,00
+hi,हिंदी,Hindi,₹ 1,23,456.00
+mt,Malti,Maltese,€123,456.00
+se,davvisámegiella,Sami (Northern),kr 123 456,00
+ga,Gaeilge,Irish,€123,456.00
+ms,Bahasa Melayu,Malay,RM123,456
+kk,Қазақ,Kazakh,Т123 456-00
+ky,Кыргыз,Kyrgyz,123 456-00 сом
+sw,Kiswahili,Kiswahili,S123,456.00
+tk,türkmençe,Turkmen,123 456,00m.
+uz,U'zbek,Uzbek,123 456 so'm
+tt,Татар,Tatar,123 456,00 ₽
+bn,বাংলা,Bengali,₹ 1,23,456.00
+pa,ਪੰਜਾਬੀ,Punjabi,₹ 1,23,456.00
+gu,ગુજરાતી,Gujarati,₹ 1,23,456.00
+or,ଓଡ଼ିଆ,Oriya,₹ 1,23,456.00
+ta,தமிழ்,Tamil,₹ 1,23,456.00
+te,తెలుగు,Telugu,₹ 1,23,456.00
+kn,ಕನ್ನಡ,Kannada,₹ 1,23,456.00
+ml,മലയാളം,Malayalam,₹ 1,23,456.00
+as,অসমীয়া,Assamese,1,23,456.00₹
+mr,मराठी,Marathi,₹ 1,23,456.00
+sa,संस्कृत,Sanskrit,₹ 1,23,456.00
+mn,Монгол хэл,Mongolian,123 456,00₮
+bo,བོད་ཡིག,Tibetan,¥123,456.00
+cy,Cymraeg,Welsh,£123,456.00
+km,ខ្មែរ,Khmer,123,456.00៛
+lo,ລາວ,Lao,123,456.00₭
+gl,galego,Galician,123.456,00 €
+kok,कोंकणी,Konkani,₹ 1,23,456.00
+syr,ܣܘܪܝܝܐ,Syriac,ل.س.‏ 123,456.00
+si,සිංහල,Sinhala,රු. 123,456.00
+iu,Inuktitut,Inuktitut,$123,456.00
+am,አማርኛ,Amharic,ETB123,456.00
+tzm,Tamazight,Tamazight,123,456.00 DZD
+ne,नेपाली,Nepali,रु123,456.00
+fy,Frysk,Frisian,€ 123.456,00
+ps,پښتو,Pashto,؋123٬456٫00
+fil,Filipino,Filipino,PhP123,456.00
+dv,ދިވެހިބަސް,Divehi,123,456.00 ރ.
+ha,Hausa,Hausa,N 123,456.00
+yo,Yoruba,Yoruba,N 123,456.00
+quz,runasimi,Quechua,$b 123.456,00
+nso,Sesotho sa Leboa,Sesotho sa Leboa,R 123,456.00
+ba,Башҡорт,Bashkir,123 456,00 ₽
+lb,Lëtzebuergesch,Luxembourgish,123 456,00 €
+kl,kalaallisut,Greenlandic,kr. 123.456,00
+ig,Igbo,Igbo,N 123,456.00
+ii,ꆈꌠꁱꂷ,Yi,¥123,456.00
+arn,Mapudungun,Mapudungun,$ 123.456,00
+moh,Kanien'kéha,Mohawk,$123,456.00
+br,brezhoneg,Breton,123 456,00 €
+,Invariant Language (Invariant Country),Invariant Language (Invariant Country),¤123,456.00
+ug,ئۇيغۇرچە,Uyghur,¥123,456.00
+mi,Reo Māori,Maori,$123,456.00
+oc,Occitan,Occitan,123 456,00 €
+co,Corsu,Corsican,123 456,00 €
+gsw,Elsässisch,Alsatian,123 456,00 €
+sah,саха,Yakut,123 456,00₽
+qut,K'iche,K'iche,Q123,456.00
+rw,Kinyarwanda,Kinyarwanda,RWF 123 456,00
+wo,Wolof,Wolof,123 456,00 XOF
+prs,درى,Dari,؋123,456.00
+gd,Gàidhlig,Scottish Gaelic,£123,456.00
+ar-SA,العربية (المملكة العربية السعودية),Arabic (Saudi Arabia),ر.س.‏ 123,456.00
+bg-BG,български (България),Bulgarian (Bulgaria),123 456,00 лв.
+ca-ES,català (català),Catalan (Catalan),123.456,00 €
+zh-TW,中文(台灣),Chinese (Traditional, Taiwan),NT$123,456.00
+cs-CZ,čeština (Česká republika),Czech (Czech Republic),123 456,00 Kč
+da-DK,dansk (Danmark),Danish (Denmark),kr. 123.456,00
+de-DE,Deutsch (Deutschland),German (Germany),123.456,00 €
+el-GR,Ελληνικά (Ελλάδα),Greek (Greece),123.456,00 €
+en-US,English (United States),English (United States),$123,456.00
+fi-FI,suomi (Suomi),Finnish (Finland),123 456,00 €
+fr-FR,français (France),French (France),123 456,00 €
+he-IL,עברית (ישראל),Hebrew (Israel),₪ 123,456.00
+hu-HU,magyar (Magyarország),Hungarian (Hungary),123 456,00 Ft
+is-IS,íslenska (Ísland),Icelandic (Iceland),123.456 kr.
+it-IT,italiano (Italia),Italian (Italy),€ 123.456,00
+ja-JP,日本語 (日本),Japanese (Japan),¥123,456
+ko-KR,한국어 (대한민국),Korean (Korea),₩123,456
+nl-NL,Nederlands (Nederland),Dutch (Netherlands),€ 123.456,00
+nb-NO,norsk, bokmål (Norge),Norwegian, Bokmål (Norway),kr 123 456,00
+pl-PL,polski (Polska),Polish (Poland),123 456,00 zł
+pt-BR,Português (Brasil),Portuguese (Brazil),R$ 123.456,00
+rm-CH,Rumantsch (Svizra),Romansh (Switzerland),fr. 123'456.00
+ro-RO,română (România),Romanian (Romania),123.456,00 lei
+ru-RU,русский (Россия),Russian (Russia),123 456,00 ₽
+hr-HR,hrvatski (Hrvatska),Croatian (Croatia),123.456,00 kn
+sk-SK,slovenčina (Slovenská republika),Slovak (Slovakia),123 456,00 €
+sq-AL,shqipe (Shqipëria),Albanian (Albania),123.456,00Lek
+sv-SE,svenska (Sverige),Swedish (Sweden),123.456,00 kr
+th-TH,ไทย (ไทย),Thai (Thailand),฿123,456.00
+tr-TR,Türkçe (Türkiye),Turkish (Turkey),123.456,00 ₺
+ur-PK,اُردو (پاکستان),Urdu (Islamic Republic of Pakistan),Rs123,456.00
+id-ID,Bahasa Indonesia (Indonesia),Indonesian (Indonesia),Rp123.456
+uk-UA,українська (Україна),Ukrainian (Ukraine),123 456,00₴
+be-BY,Беларускі (Беларусь),Belarusian (Belarus),123 456,00 р.
+sl-SI,slovenski (Slovenija),Slovenian (Slovenia),123.456,00 €
+et-EE,eesti (Eesti),Estonian (Estonia),123 456.00 €
+lv-LV,latviešu (Latvija),Latvian (Latvia),€ 123 456,00
+lt-LT,lietuvių (Lietuva),Lithuanian (Lithuania),123.456,00 Lt
+tg-Cyrl-TJ,Тоҷикӣ (Тоҷикистон),Tajik (Cyrillic, Tajikistan),123 456;00 т.р.
+fa-IR,فارسى (ایران),Persian,ريال 123,456/00
+vi-VN,Tiếng Việt (Việt Nam),Vietnamese (Vietnam),123.456,00 ₫
+hy-AM,Հայերեն (Հայաստան),Armenian (Armenia),123,456.00 դր.
+az-Latn-AZ,Azərbaycan­ılı (Azərbaycan),Azeri (Latin, Azerbaijan),123 456,00 man.
+eu-ES,euskara (euskara),Basque (Basque),123.456,00 €
+hsb-DE,hornjoserbšćina (Němska),Upper Sorbian (Germany),123.456,00 €
+mk-MK,македонски јазик (Македонија),Macedonian (Former Yugoslav Republic of Macedonia),123.456,00 ден.
+tn-ZA,Setswana (Aforika Borwa),Setswana (South Africa),R 123,456.00
+xh-ZA,isiXhosa (uMzantsi Afrika),isiXhosa (South Africa),R 123,456.00
+zu-ZA,isiZulu (iNingizimu Afrika),isiZulu (South Africa),R 123,456.00
+af-ZA,Afrikaans (Suid Afrika),Afrikaans (South Africa),R 123,456.00
+ka-GE,ქართული (საქართველო),Georgian (Georgia),123 456,00 Lari
+fo-FO,føroyskt (Føroyar),Faroese (Faroe Islands),kr. 123.456,00
+hi-IN,हिंदी (भारत),Hindi (India),₹ 1,23,456.00
+mt-MT,Malti (Malta),Maltese (Malta),€123,456.00
+se-NO,davvisámegiella (Norga),Sami, Northern (Norway),kr 123 456,00
+ms-MY,Bahasa Melayu (Malaysia),Malay (Malaysia),RM123,456
+kk-KZ,Қазақ (Қазақстан),Kazakh (Kazakhstan),Т123 456-00
+ky-KG,Кыргыз (Кыргызстан),Kyrgyz (Kyrgyzstan),123 456-00 сом
+sw-KE,Kiswahili (Kenya),Kiswahili (Kenya),S123,456.00
+tk-TM,türkmençe (Türkmenistan),Turkmen (Turkmenistan),123 456,00m.
+uz-Latn-UZ,U'zbek (U'zbekiston Respublikasi),Uzbek (Latin, Uzbekistan),123 456 so'm
+tt-RU,Татар (Россия),Tatar (Russia),123 456,00 ₽
+bn-IN,বাংলা (ভারত),Bengali (India),₹ 1,23,456.00
+pa-IN,ਪੰਜਾਬੀ (ਭਾਰਤ),Punjabi (India),₹ 1,23,456.00
+gu-IN,ગુજરાતી (ભારત),Gujarati (India),₹ 1,23,456.00
+or-IN,ଓଡ଼ିଆ (ଭାରତ),Oriya (India),₹ 1,23,456.00
+ta-IN,தமிழ் (இந்தியா),Tamil (India),₹ 1,23,456.00
+te-IN,తెలుగు (భారత దేశం),Telugu (India),₹ 1,23,456.00
+kn-IN,ಕನ್ನಡ (ಭಾರತ),Kannada (India),₹ 1,23,456.00
+ml-IN,മലയാളം (ഭാരതം),Malayalam (India),₹ 1,23,456.00
+as-IN,অসমীয়া (ভাৰত),Assamese (India),1,23,456.00₹
+mr-IN,मराठी (भारत),Marathi (India),₹ 1,23,456.00
+sa-IN,संस्कृत (भारतम्),Sanskrit (India),₹ 1,23,456.00
+mn-MN,Монгол хэл (Монгол улс),Mongolian (Cyrillic, Mongolia),123 456,00₮
+bo-CN,བོད་ཡིག (ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ།),Tibetan (PRC),¥123,456.00
+cy-GB,Cymraeg (y Deyrnas Unedig),Welsh (United Kingdom),£123,456.00
+km-KH,ខ្មែរ (កម្ពុជា),Khmer (Cambodia),123,456.00៛
+lo-LA,ລາວ (ສ.ປ.ປ. ລາວ),Lao (Lao P.D.R.),123,456.00₭
+gl-ES,galego (galego),Galician (Galician),123.456,00 €
+kok-IN,कोंकणी (भारत),Konkani (India),₹ 1,23,456.00
+syr-SY,ܣܘܪܝܝܐ (سوريا),Syriac (Syria),ل.س.‏ 123,456.00
+si-LK,සිංහල (ශ්‍රී ලංකා),Sinhala (Sri Lanka),රු. 123,456.00
+iu-Cans-CA,ᐃᓄᒃᑎᑐᑦ (ᑲᓇᑕᒥ),Inuktitut (Syllabics, Canada),$123,456.00
+am-ET,አማርኛ (ኢትዮጵያ),Amharic (Ethiopia),ETB123,456.00
+ne-NP,नेपाली (नेपाल),Nepali (Nepal),रु123,456.00
+fy-NL,Frysk (Nederlân),Frisian (Netherlands),€ 123.456,00
+ps-AF,پښتو (افغانستان),Pashto (Afghanistan),؋123٬456٫00
+fil-PH,Filipino (Pilipinas),Filipino (Philippines),PhP123,456.00
+dv-MV,ދިވެހިބަސް (ދިވެހި ރާއްޖެ),Divehi (Maldives),123,456.00 ރ.
+ha-Latn-NG,Hausa (Nigeria),Hausa (Latin, Nigeria),N 123,456.00
+yo-NG,Yoruba (Nigeria),Yoruba (Nigeria),N 123,456.00
+quz-BO,runasimi (Qullasuyu),Quechua (Bolivia),$b 123.456,00
+nso-ZA,Sesotho sa Leboa (Afrika Borwa),Sesotho sa Leboa (South Africa),R 123,456.00
+ba-RU,Башҡорт (Россия),Bashkir (Russia),123 456,00 ₽
+lb-LU,Lëtzebuergesch (Luxembourg),Luxembourgish (Luxembourg),123 456,00 €
+kl-GL,kalaallisut (Kalaallit Nunaat),Greenlandic (Greenland),kr. 123.456,00
+ig-NG,Igbo (Nigeria),Igbo (Nigeria),N 123,456.00
+ii-CN,ꆈꌠꁱꂷ (ꍏꉸꏓꂱꇭꉼꇩ),Yi (PRC),¥123,456.00
+arn-CL,Mapudungun (Chile),Mapudungun (Chile),$ 123.456,00
+moh-CA,Kanien'kéha,Mohawk (Mohawk),$123,456.00
+br-FR,brezhoneg (Frañs),Breton (France),123 456,00 €
+ug-CN,ئۇيغۇرچە (جۇڭخۇا خەلق جۇمھۇرىيىتى),Uyghur (PRC),¥123,456.00
+mi-NZ,Reo Māori (Aotearoa),Maori (New Zealand),$123,456.00
+oc-FR,Occitan (França),Occitan (France),123 456,00 €
+co-FR,Corsu (France),Corsican (France),123 456,00 €
+gsw-FR,Elsässisch (Frànkrisch),Alsatian (France),123 456,00 €
+sah-RU,саха (Россия),Yakut (Russia),123 456,00₽
+qut-GT,K'iche (Guatemala),K'iche (Guatemala),Q123,456.00
+rw-RW,Kinyarwanda (Rwanda),Kinyarwanda (Rwanda),RWF 123 456,00
+wo-SN,Wolof (Sénégal),Wolof (Senegal),123 456,00 XOF
+prs-AF,درى (افغانستان),Dari (Afghanistan),؋123,456.00
+gd-GB,Gàidhlig (An Rìoghachd Aonaichte),Scottish Gaelic (United Kingdom),£123,456.00
+ar-IQ,العربية (العراق),Arabic (Iraq),د.ع.‏ 123,456.00
+zh-CN,中文(中华人民共和国),Chinese (Simplified, PRC),¥123,456.00
+de-CH,Deutsch (Schweiz),German (Switzerland),Fr. 123'456.00
+en-GB,English (United Kingdom),English (United Kingdom),£123,456.00
+es-MX,Español (México),Spanish (Mexico),$123,456.00
+fr-BE,français (Belgique),French (Belgium),€ 123.456,00
+it-CH,italiano (Svizzera),Italian (Switzerland),fr. 123'456.00
+nl-BE,Nederlands (België),Dutch (Belgium),€ 123.456,00
+nn-NO,norsk, nynorsk (Noreg),Norwegian, Nynorsk (Norway),kr 123 456,00
+pt-PT,português (Portugal),Portuguese (Portugal),123.456,00 €
+sr-Latn-CS,srpski (Srbija i Crna Gora (Prethodno)),Serbian (Latin, Serbia and Montenegro (Former)),123.456,00 Din.
+sv-FI,svenska (Finland),Swedish (Finland),123 456,00 €
+az-Cyrl-AZ,Азәрбајҹан (Азәрбајҹан),Azeri (Cyrillic, Azerbaijan),123 456,00 ман.
+dsb-DE,dolnoserbšćina (Nimska),Lower Sorbian (Germany),123.456,00 €
+se-SE,davvisámegiella (Ruoŧŧa),Sami, Northern (Sweden),123.456,00 kr
+ga-IE,Gaeilge (Éire),Irish (Ireland),€123,456.00
+ms-BN,Bahasa Melayu (Brunei Darussalam),Malay (Brunei Darussalam),$123.456
+uz-Cyrl-UZ,Ўзбек (Ўзбекистон),Uzbek (Cyrillic, Uzbekistan),123 456,00 сўм
+bn-BD,বাংলা (বাংলাদেশ),Bengali (Bangladesh),৳ 1,23,456.00
+mn-Mong-CN,ᠮᠤᠨᠭᠭᠤᠯ ᠬᠡᠯᠡ (ᠪᠦᠭᠦᠳᠡ ᠨᠠᠢᠷᠠᠮᠳᠠᠬᠤ ᠳᠤᠮᠳᠠᠳᠤ ᠠᠷᠠᠳ ᠣᠯᠣᠰ),Mongolian (Traditional Mongolian, PRC),¥123,456.00
+iu-Latn-CA,Inuktitut (Kanatami),Inuktitut (Latin, Canada),$123,456.00
+tzm-Latn-DZ,Tamazight (Djazaïr),Tamazight (Latin, Algeria),123,456.00 DZD
+quz-EC,runasimi (Ecuador),Quechua (Ecuador),$ 123.456,00
+ar-EG,العربية (مصر),Arabic (Egypt),ج.م.‏ 123,456.00
+zh-HK,中文(香港特別行政區),Chinese (Traditional, Hong Kong S.A.R.),HK$123,456.00
+de-AT,Deutsch (Österreich),German (Austria),€ 123.456,00
+en-AU,English (Australia),English (Australia),$123,456.00
+es-ES,Español (España, alfabetización internacional),Spanish (Spain, International Sort),123.456,00 €
+fr-CA,français (Canada),French (Canada),123 456,00 $
+sr-Cyrl-CS,српски (Србија и Црна Гора (Претходно)),Serbian (Cyrillic, Serbia and Montenegro (Former)),123.456,00 Дин.
+se-FI,davvisámegiella (Suopma),Sami, Northern (Finland),123 456,00 €
+quz-PE,runasimi (Piruw),Quechua (Peru),S/. 123,456.00
+ar-LY,العربية (ليبيا),Arabic (Libya),د.ل.‏123,456.000
+zh-SG,中文(新加坡),Chinese (Simplified, Singapore),$123,456.00
+de-LU,Deutsch (Luxemburg),German (Luxembourg),123.456,00 €
+en-CA,English (Canada),English (Canada),$123,456.00
+es-GT,Español (Guatemala),Spanish (Guatemala),Q123,456.00
+fr-CH,français (Suisse),French (Switzerland),fr. 123'456.00
+hr-BA,hrvatski (Bosna i Hercegovina),Croatian (Latin, Bosnia and Herzegovina),123.456,00 KM
+smj-NO,julevusámegiella (Vuodna),Sami, Lule (Norway),kr 123 456,00
+ar-DZ,العربية (الجزائر),Arabic (Algeria),د.ج.‏ 123,456.00
+zh-MO,中文(澳門特別行政區),Chinese (Traditional, Macao S.A.R.),MOP123,456.00
+de-LI,Deutsch (Liechtenstein),German (Liechtenstein),CHF 123'456.00
+en-NZ,English (New Zealand),English (New Zealand),$123,456.00
+es-CR,Español (Costa Rica),Spanish (Costa Rica),₡123.456,00
+fr-LU,français (Luxembourg),French (Luxembourg),123 456,00 €
+bs-Latn-BA,bosanski (Bosna i Hercegovina),Bosnian (Latin, Bosnia and Herzegovina),123.456,00 KM
+smj-SE,julevusámegiella (Svierik),Sami, Lule (Sweden),123.456,00 kr
+ar-MA,العربية (المملكة المغربية),Arabic (Morocco),د.م.‏ 123,456.00
+en-IE,English (Ireland),English (Ireland),€123,456.00
+es-PA,Español (Panamá),Spanish (Panama),B/. 123,456.00
+fr-MC,français (Principauté de Monaco),French (Monaco),123 456,00 €
+sr-Latn-BA,srpski (Bosna i Hercegovina),Serbian (Latin, Bosnia and Herzegovina),123.456,00 KM
+sma-NO,åarjelsaemiengiele (Nöörje),Sami, Southern (Norway),kr 123 456,00
+ar-TN,العربية (تونس),Arabic (Tunisia),د.ت.‏ 123,456.000
+en-ZA,English (South Africa),English (South Africa),R 123 456,00
+es-DO,Español (República Dominicana),Spanish (Dominican Republic),RD$123,456.00
+sr-Cyrl-BA,српски (Босна и Херцеговина),Serbian (Cyrillic, Bosnia and Herzegovina),123.456,00 КМ
+sma-SE,åarjelsaemiengiele (Sveerje),Sami, Southern (Sweden),123.456,00 kr
+ar-OM,العربية (عمان),Arabic (Oman),ر.ع.‏ 123,456.000
+en-JM,English (Jamaica),English (Jamaica),J$123,456.00
+es-VE,Español (Republica Bolivariana de Venezuela),Spanish (Bolivarian Republic of Venezuela),Bs. F. 123.456,00
+bs-Cyrl-BA,босански (Босна и Херцеговина),Bosnian (Cyrillic, Bosnia and Herzegovina),123.456,00 КМ
+sms-FI,sääm´ǩiõll (Lää´ddjânnam),Sami, Skolt (Finland),123 456,00 €
+ar-YE,العربية (اليمن),Arabic (Yemen),ر.ي.‏ 123,456.00
+en-029,English (Caribbean),English (Caribbean),$123,456.00
+es-CO,Español (Colombia),Spanish (Colombia),$ 123.456,00
+sr-Latn-RS,srpski (Srbija),Serbian (Latin, Serbia),123.456,00 Din.
+smn-FI,sämikielâ (Suomâ),Sami, Inari (Finland),123 456,00 €
+ar-SY,العربية (سوريا),Arabic (Syria),ل.س.‏ 123,456.00
+en-BZ,English (Belize),English (Belize),BZ$123,456.00
+es-PE,Español (Perú),Spanish (Peru),S/. 123,456.00
+sr-Cyrl-RS,српски (Србија),Serbian (Cyrillic, Serbia),123.456,00 Дин.
+ar-JO,العربية (الأردن),Arabic (Jordan),د.ا.‏ 123,456.000
+en-TT,English (Trinidad y Tobago),English (Trinidad and Tobago),TT$123,456.00
+es-AR,Español (Argentina),Spanish (Argentina),$ 123.456,00
+sr-Latn-ME,srpski (Crna Gora),Serbian (Latin, Montenegro),123.456,00 €
+ar-LB,العربية (لبنان),Arabic (Lebanon),ل.ل.‏ 123,456.00
+en-ZW,English (Zimbabwe),English (Zimbabwe),Z$123,456.00
+es-EC,Español (Ecuador),Spanish (Ecuador),$ 123.456,00
+sr-Cyrl-ME,српски (Црна Гора),Serbian (Cyrillic, Montenegro),123.456,00 €
+ar-KW,العربية (الكويت),Arabic (Kuwait),د.ك.‏ 123,456.000
+en-PH,English (Philippines),English (Republic of the Philippines),Php123,456.00
+es-CL,Español (Chile),Spanish (Chile),$ 123.456,00
+ar-AE,العربية (الإمارات العربية المتحدة),Arabic (U.A.E.),د.إ.‏ 123,456.00
+es-UY,Español (Uruguay),Spanish (Uruguay),$U 123.456,00
+ar-BH,العربية (البحرين),Arabic (Bahrain),د.ب.‏ 123,456.000
+es-PY,Español (Paraguay),Spanish (Paraguay),Gs 123.456,00
+ar-QA,العربية (قطر),Arabic (Qatar),ر.ق.‏ 123,456.00
+en-IN,English (India),English (India),₹ 1,23,456.00
+es-BO,Español (Bolivia),Spanish (Bolivia),$b 123.456,00
+en-MY,English (Malaysia),English (Malaysia),RM123,456.00
+es-SV,Español (El Salvador),Spanish (El Salvador),$123,456.00
+en-SG,English (Singapore),English (Singapore),$123,456.00
+es-HN,Español (Honduras),Spanish (Honduras),L. 123,456.00
+es-NI,Español (Nicaragua),Spanish (Nicaragua),C$ 123,456.00
+es-PR,Español (Puerto Rico),Spanish (Puerto Rico),$ 123,456.00
+es-US,Español (Estados Unidos),Spanish (United States),$123,456.00
+bs-Cyrl,босански,Bosnian (Cyrillic),123.456,00 КМ
+bs-Latn,bosanski,Bosnian (Latin),123.456,00 KM
+sr-Cyrl,српски,Serbian (Cyrillic),123.456,00 Дин.
+sr-Latn,srpski,Serbian (Latin),123.456,00 Din.
+smn,sämikielâ,Sami (Inari),123 456,00 €
+az-Cyrl,Азәрбајҹан дили,Azeri (Cyrillic),123 456,00 ман.
+sms,sääm´ǩiõll,Sami (Skolt),123 456,00 €
+zh,中文,Chinese,¥123,456.00
+nn,norsk (nynorsk),Norwegian (Nynorsk),kr 123 456,00
+bs,bosanski,Bosnian,123.456,00 KM
+az-Latn,Azərbaycan­ılı,Azeri (Latin),123 456,00 man.
+sma,åarjelsaemiengiele,Sami (Southern),123.456,00 kr
+uz-Cyrl,Ўзбек,Uzbek (Cyrillic),123 456,00 сўм
+mn-Cyrl,Монгол хэл,Mongolian (Cyrillic),123 456,00₮
+iu-Cans,ᐃᓄᒃᑎᑐᑦ,Inuktitut (Syllabics),$123,456.00
+zh-Hant,中文(繁體),Chinese (Traditional),HK$123,456.00
+nb,norsk (bokmål),Norwegian (Bokmål),kr 123 456,00
+sr,srpski,Serbian,123.456,00 Din.
+tg-Cyrl,Тоҷикӣ,Tajik (Cyrillic),123 456;00 т.р.
+dsb,dolnoserbšćina,Lower Sorbian,123.456,00 €
+smj,julevusámegiella,Sami (Lule),123.456,00 kr
+uz-Latn,U'zbek,Uzbek (Latin),123 456 so'm
+mn-Mong,ᠮᠤᠨᠭᠭᠤᠯ ᠬᠡᠯᠡ,Mongolian (Traditional Mongolian),¥123,456.00
+iu-Latn,Inuktitut,Inuktitut (Latin),$123,456.00
+tzm-Latn,Tamazight,Tamazight (Latin),123,456.00 DZD
+ha-Latn,Hausa,Hausa (Latin),N 123,456.00
